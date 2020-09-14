@@ -35,7 +35,7 @@ public class Main {
 
     //Tells and calculates users slope
     double slope = (yb - ya)/(xb - xa);
-    
+
     System.out.println("The slope of your line would be " + slope + ".");
   }
 }
